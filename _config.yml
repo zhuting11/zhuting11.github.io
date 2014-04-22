@@ -1,0 +1,16 @@
+markdown: rdiscount
+permalink: /:title/
+url: Http://zhuting11.github.io
+name: zhuting
+author: ZhuTing
+qq: 99794506
+email: zt58233721@163.com
+duoshuo: zhuting11 
+beian: 沪ICP备12026616号
+cnzz: 1000312472
+weibo: 1713220923
+github: zhuting
+pygments: true
+safe: true
+paginate: 20
+about: 我的博客 

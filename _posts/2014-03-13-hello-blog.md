@@ -3,8 +3,8 @@ date: 2014-03-13 09:30:12+00:00
 layout: post
 title: 我的 Blog 开通了……
 thread: 166
-categories: 日志
-tags: 博客
+categories: 每日随笔
+tags: 随笔
 ---
 
 我的博客终于开通了，研究了好一阵Jekyll和Github，货比三家最终选了这个模板，还是很满意的，在此感谢Yonsm和Webfrogs的无私奉献。
